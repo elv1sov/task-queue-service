@@ -1,0 +1,7 @@
+/bin/
+/api
+/worker
+.env
+.env.*
+*.exe
+!.env.example
